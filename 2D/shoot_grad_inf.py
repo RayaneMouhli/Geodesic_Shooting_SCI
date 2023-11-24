@@ -1,4 +1,4 @@
-import functions_2d as f2d
+3import functions_2d as f2d
 import torch
 import matplotlib.pyplot as plt
 import numpy as np
